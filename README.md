@@ -1,8 +1,7 @@
 # Oi eu sou ~~Goku~~ Elias Mateus 👋🏻
 
 ## Social Midia
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-mateus-machado-gonçalves-56252419a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eliasjoboficial/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-mateus-56252419a/)
 
 ![Elias GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasMateu&show_icons=true&theme=dracula)
 
