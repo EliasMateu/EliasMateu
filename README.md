@@ -5,7 +5,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasMateu&size_weight=0.5&count_weight=0.5)
 
-## Tecnologias que eu uso em meu dia
+## Technologies I Use Daily
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -19,7 +19,7 @@
     <img align="center" alt="mySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br/>
 
-###Passionate About Technology
+### Passionate About Technology
 
 Hi, I'm Elias, a fullstack developer and technology enthusiast. My journey in programming has been driven by continuous learning, exciting project work, and a commitment to efficient solutions.
 
