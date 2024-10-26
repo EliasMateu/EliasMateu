@@ -19,15 +19,16 @@
     <img align="center" alt="mySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br/>
 
-### Apaixonado por tecnologia
-Olá, sou Elias, um estudante que está no início de sua jornada no mundo da programação e desenvolvimento.
+###Passionate About Technology
 
-💻 Estudante Incansável: Estou sempre buscando aprender e crescer na área de tecnologia. Meus dias são preenchidos com linhas de código, projetos emocionantes e desafios estimulantes.
+Hi, I'm Elias, a fullstack developer and technology enthusiast. My journey in programming has been driven by continuous learning, exciting project work, and a commitment to efficient solutions.
 
-🌟 Paixão pela Tecnologia: Desde que mergulhei nesse universo, minha paixão por tecnologia só cresceu. Estou fascinado por como a tecnologia pode transformar ideias em realidade e tornar o impossível possível.
+💻 Aspiring Fullstack Developer: With hands-on experience in building complete applications, I’m always exploring new frameworks, technologies, and best practices that enhance my work and streamline results.
 
-📚 Aprendizado Contínuo: Acredito que o aprendizado é uma jornada constante, e estou sempre explorando novas linguagens de programação, frameworks e tecnologias emergentes.
+🌟 Passion for Technology: Ever since I immersed myself in this field, my passion has only grown. I’m fascinated by the way technology transforms ideas into reality and enables the impossible.
 
-💡 Objetivo: Meu objetivo é contribuir para projetos inovadores, aprender com profissionais experientes e, com o tempo, me tornar um desenvolvedor habilidoso e impactante.
+📚 Continuous Learning: I believe learning is a never-ending journey. Whether it’s advancing current skills or diving into new technologies, I’m always looking to sharpen my skill set.
 
-Fique à vontade para explorar meus repositórios e projetos. Estou animado para fazer parte desta incrível comunidade de desenvolvedores e compartilhar minha paixão pela tecnologia com o mundo!
+💡 Objective: My goal is to contribute to innovative projects, collaborate with talented teams, and continue my growth as a technology professional.
+
+Feel free to explore my repositories and projects. I'm excited to be part of this incredible developer community and to share my passion for impactful technology solutions with the world!
