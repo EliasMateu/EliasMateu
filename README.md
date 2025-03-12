@@ -5,7 +5,7 @@
 Sou apaixonado por tecnologia e desenvolvimento de software. Tenho experiência na construção de aplicações completas, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
 📌 **Atualmente trabalhando com:**
-- 🖥️ **Front-end:** Angular, React Native, TypeScript, HTML5, CSS3  
+- 🖥️ **Front-end:** Angular, React Native, TypeScript
 - 🛠️ **Back-end:** NestJS, JAVA, PHP  
 - 🗄️ **Banco de Dados:** MySQL  
 
