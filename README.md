@@ -6,7 +6,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Tenho experiência 
 
 📌 **Atualmente trabalhando com:**
 - 🖥️ **Front-end:** Angular, React Native, TypeScript, HTML5, CSS3  
-- 🛠️ **Back-end:** NestJS, Node.js, PHP  
+- 🛠️ **Back-end:** NestJS, JAVA, PHP  
 - 🗄️ **Banco de Dados:** MySQL  
 
 🚀 **Objetivo:** Criar soluções inovadoras, colaborar com times talentosos e continuar crescendo como profissional de tecnologia.
