@@ -22,7 +22,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Tenho experiência 
 
 ## 🌍 Conecte-se comigo  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/elias-mateus-56252419a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elias-mateus-56252419a/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EliasMateu)  
 
 ✉️ **E-mail:** [elias.mateus.dev@gmail.com](mailto:elias.mateus.dev@gmail.com)
