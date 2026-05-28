@@ -87,19 +87,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=EliasMateu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasMateu&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
 ## 🌐 Onde me encontrar
 
 <div align="center">
