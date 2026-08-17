@@ -21,11 +21,11 @@
 
 ### 🧠 Sobre mim
 
-- 🔭 Atualmente desenvolvendo em **ImoFlow** com Nuxt + Express
-- 🎓 Técnico em Desenvolvimento de Sistemas — **Etec Dr. Demétrio Azevedo Jr.**
-- 🏆 **Melhor TCC da turma** — App de coleta de resíduos recicláveis com mapa interativo
+- 🔭 Atualmente desenvolvendo na **ImoFlow** com Nuxt + Express
+- 🎓 Técnico em Desenvolvimento de Sistemas **Etec Dr. Demétrio Azevedo Jr.**
+- 🏆 **Melhor TCC da turma** App de coleta de resíduos recicláveis com mapa interativo
 - 📚 Cursando **Bacharelado em TI** na UNIVESP *(conclusão: 2027)*
-- 💡 Ex-QA → Back-end → Full Stack — visão completa do ciclo de software
+- 💡 Ex-QA -> Back-end -> Full Stack visão completa do ciclo de software
 - 📖 Inglês técnico: **leitura e escrita avançadas**
 - 📬 Fale comigo: **elias.mateus.dev@gmail.com**
 
